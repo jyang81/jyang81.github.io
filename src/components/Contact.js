@@ -10,7 +10,7 @@ const Contact = () => {
         <h2 className="bold">GET IN TOUCH</h2>
         <hr />
         <h6 className="main-copy">
-          Email me or find me on the web:
+          Send me an email or find me on the web:
         </h6>
         <div className="section">
           <div className="row justify-content-center">
