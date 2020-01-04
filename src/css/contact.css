@@ -1,0 +1,18 @@
+/* === ICON LAYOUT === */ 
+.center-icons {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  margin: 0 0.5rem 2rem 0.5rem;
+}
+
+
+/* LINK STYLES */
+.contact-link {
+    color: white;
+}
+
+.contact-link:hover {
+    color: var(--main-color);
+}
